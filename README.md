@@ -8,7 +8,7 @@ https://tic-tac-toe-nuttik.netlify.app
 
 ## 2. UML Диаграмма (минимальная) ##
 Для описания логики использована упрощенная диаграмма классов, разделяющая состояние, визуальное представление и бота.
-https://drive.google.com/drive/folders/1yN0sihife_OKYCaFk4-9Dp71sS0V3YBZ
+https://drive.google.com/file/d/1OaIajV6Yp8Ud7tXzuyyeERsTu-Kza6mo/view
 
 ```mermaid
 classDiagram
